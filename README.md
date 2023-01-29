@@ -58,10 +58,10 @@ VCS - Version control system - most common vcs is Git
 - branching and merging
 - auditing for code
 
+<br>
+ Sequel Ubuntu codes:
 
-> Sequel Ubuntu codes:
-
->> git - git vcs function
+> git - git vcs function
 -	init > to initialize git in current directory
 -	status > to track any changes
 	1. untracked
